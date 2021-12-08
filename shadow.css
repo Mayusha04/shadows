@@ -1,0 +1,13 @@
+h1 {
+    font-size: 60px;
+    color: rgba(236, 243, 237, 0.952);
+    text-shadow: 2px 2px 1px rgb(51, 17, 201), 0 0 4px rgba(13, 186, 230, 0.884), 0 0 5px rgb(255, 113, 47);
+    text-decoration: rgb(223, 8, 26);
+}
+#box {
+    height: 550px;
+    width: 550px;
+    margin: 110px;
+    background-color: indigo;
+    box-shadow: 5px 5px rgb(211, 26, 211);
+}
